@@ -1,6 +1,7 @@
 # MaterialTab-GFGarticle
 <br>
 <hr>
+<h3><a href="https://www.geeksforgeeks.org/android-material-tabs-in-kotlin/">See the detail explanation</a></h3>
 Output:
 
 
